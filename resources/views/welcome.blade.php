@@ -121,7 +121,7 @@
             @endif
             <div class="links">
                 <a href="./send-mail" class="button">
-                    Send a Test Mail
+                    Click to Send Mail
                 </a>
             </div>
 
